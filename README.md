@@ -4,4 +4,4 @@
 
 # Virtual Environment
 - Install virtual environment
-- Run ```pip install -r requirements.txt``` to install all required imports to the VENV.
+- Run ```pip install -r requirements.txt``` to install all required packages to the VENV.
