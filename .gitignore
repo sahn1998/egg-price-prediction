@@ -1,3 +1,41 @@
-env/
-.vscode/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
 venv/
+env/
+*.env
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Data and logs
+*.log
+*.csv
+*.tsv
+*.sqlite
+*.db
+
+# Python package files
+*.egg-info/
+dist/
+build/
+
+# Hidden system files (Mac & Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore compiled Jupyter kernel and cache files
+.ipynb_checkpoints/
+*.pyc
+
+# Ignore model artifacts and results (if applicable)
+*.h5
+*.pkl
+*.joblib
