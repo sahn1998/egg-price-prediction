@@ -4,3 +4,4 @@ matplotlib
 seaborn
 redshift-connector
 scikit-learn
+xgboost
